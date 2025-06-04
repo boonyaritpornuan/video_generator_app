@@ -89,19 +89,3 @@ python main_app.py
 
 5. **Media Processor** (`media_processor.py`):
    - Assembles images and audio into videos using MoviePy
-
-## Next Steps
-
-This implementation provides the foundation and core modules for the video generator application. To complete the project:
-
-1. Implement proper error handling and logging
-2. Add progress indicators for long-running operations
-3. Enhance the UI with additional features like preview capabilities
-4. Add support for background music and transitions
-5. Implement video export options (resolution, format, etc.)
-
-## Notes
-
-- The current implementation includes placeholder functions for API calls
-- You'll need to provide your own Google Cloud service account key
-- API usage will incur costs according to Google Cloud pricing
